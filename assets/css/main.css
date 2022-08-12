@@ -61,6 +61,10 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+hrefstd {
+	color: #0f7fac
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -207,6 +211,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
+		color: #767676;
 		margin-bottom: 2em;
 	}
 
